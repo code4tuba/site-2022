@@ -68,14 +68,15 @@ export default function Index() {
                 </span>
               </h2>
               <p className="mx-auto mt-6 max-w-lg pt-20 pb-20 pl-14 pr-14 text-center text-justify indent-8 text-xl text-black sm:max-w-3xl">
-                O FloripaJS é uma comunidade formada em 2012 por um grupo de
-                amigos que queriam fomentar o desenvolvimento front-end em
-                Florianópolis e região. No ano seguinte o grupo começou a fazer
-                reuniões e encontros pela internet. Mas foi apenas em 2014 que o
-                grupo ganhou força devido ao meetup que ocorre frequentemente.
-                Hoje o FloripaJS é uma das comunidades mais ativas do Brasil,
-                graças ao seu público fiel nos encontros e também no apoio ao
-                mundo open-source.
+                O Code4Tuba é uma comunidade formada em 2017 por um grupo de
+                amigos que queriam fomentar o desenvolvimento de software em
+                Tubarão e região. Nosso primeiro evento contou com mais de 100
+                inscritos, e arrecadamos 110kg de alimentos e 115 litros de
+                leite que foram doados para famílias na cidade. Após esse
+                primeiro evento, a comunidade se manteve ativa com a realização
+                de meetups até a pausa devido a pandemia. Em 2022 estamos de
+                volta, com uma nova cara e a mesma vontade, fortalecer o
+                desenvolvimento de software na nossa região.
               </p>
             </div>
           </div>
