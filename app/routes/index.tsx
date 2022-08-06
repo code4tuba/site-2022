@@ -48,7 +48,7 @@ export default function Index() {
               >
                 <img
                   src="https://github.com/code4tuba.png"
-                  alt="Remix"
+                  alt="Code 4 Tuba logo"
                   className="mx-auto mt-16 w-full max-w-[12rem] md:max-w-[16rem]"
                 />
               </a>
