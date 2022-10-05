@@ -9,7 +9,7 @@ export default function Index() {
             <div className="absolute inset-0">
               <img
                 className="h-full w-full object-cover"
-                src="https://pbs.twimg.com/media/EAgBbrVXoAEDcHC?format=jpg&name=medium"
+                src="https://pbs.twimg.com/media/FbWUmgZWQAEffle?format=jpg"
                 alt="Foto de um dos encontros"
               />
               <div className="absolute inset-0 bg-[color:rgba(25,204,254,0.2)] mix-blend-multiply" />
